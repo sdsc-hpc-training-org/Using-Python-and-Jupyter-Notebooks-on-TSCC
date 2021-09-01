@@ -20,6 +20,6 @@ This workshop will focus on providing guidelines for setting up customized Pytho
  | 2:00 PM - 2:30 PM  |  Running Secure Notebooks on TSCC
  | Scott Sakai, Senior Security Analyst
  | 2:30 PM - 3:00 PM  |  galyleo: A shell utility to help you launch Jupyter notebooks in a secure way | Marty Kandes, Computational and Data Science Research Specialist | 
- | Part III: Hands-on |  | 
+ | Part III: Hands-on |
  | 3:00 PM - 4:00 PM  |  Bring your notebook and we'll try to help get it running | TSCC team | 
 4:00 PM - Q&A & Closing
