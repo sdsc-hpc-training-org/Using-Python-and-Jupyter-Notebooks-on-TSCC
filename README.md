@@ -13,13 +13,13 @@ This workshop will focus on providing guidelines for setting up customized Pytho
 | **TIME** |  **TITLE** | **Presenter** |
 | ----- | -----  | ----- |
 | 1:00 PM - 1:15 PM  |  Welcome and Introductions | Subhashini Sivagnanam, Senior Computational and Data Science Specialist | 
- | Part I: Interactive Computing on TSCC and Setting up of Customized Python Environments | 
+ | Part I:  |  Interactive Computing on TSCC and Setting up of Customized Python Environments |  | 
  | 1:15 PM - 1:30 PM  |  Overview of Interactive Computing | Mary Thomas, Computational Data Scientist | 
  | 1:30 PM - 2:00 PM  |  Setting up of Customized Python Environments (Using PIP, Miniconda) | Manu Shantharam, Senior Computational Scientist | 
- | Part II: Running Jupyter Notebooks |  | 
+ | Part II:  | Running Jupyter Notebooks |  | 
  | 2:00 PM - 2:30 PM  |  Running Secure Notebooks on TSCC
  | Scott Sakai, Senior Security Analyst
  | 2:30 PM - 3:00 PM  |  galyleo: A shell utility to help you launch Jupyter notebooks in a secure way | Marty Kandes, Computational and Data Science Research Specialist | 
- | Part III: Hands-on |
+ | Part III:  | Hands-on | | 
  | 3:00 PM - 4:00 PM  |  Bring your notebook and we'll try to help get it running | TSCC team | 
 4:00 PM - Q&A & Closing
