@@ -1,4 +1,4 @@
-# Using-Python-and-Jupyter-Notebooks-on-TSCC
+# Using Python and Jupyter Notebooks on TSCC
 
 * **Date:**  Thursday, September 2, 2021
 * **Time:** 1:00 PM - 4:00 PM PDT
