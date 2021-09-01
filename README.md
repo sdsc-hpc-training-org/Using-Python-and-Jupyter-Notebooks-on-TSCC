@@ -13,7 +13,7 @@ This workshop will focus on providing guidelines for setting up customized Pytho
 | **TIME** |  **TITLE** | **Presenter** |
 | ----- | -----  | ----- |
 | 1:00 PM - 1:15 PM  |  Welcome and Introductions | Subhashini Sivagnanam, Senior Computational and Data Science Specialist | 
- | Part I: Interactive Computing on TSCC and Setting up of Customized Python Environments |  | 
+ | Part I: Interactive Computing on TSCC and Setting up of Customized Python Environments | 
  | 1:15 PM - 1:30 PM  |  Overview of Interactive Computing | Mary Thomas, Computational Data Scientist | 
  | 1:30 PM - 2:00 PM  |  Setting up of Customized Python Environments (Using PIP, Miniconda) | Manu Shantharam, Senior Computational Scientist | 
  | Part II: Running Jupyter Notebooks |  | 
