@@ -5,7 +5,7 @@
 * **Link to Main Event Page:**
 [Using Python and Jupyter Notebooks on TSCC](https://www.sdsc.edu/event_items/202109_TSCCworkshop.html)
 
-This event will be held remotely.
+This event will be held remotely.  
 
 The Triton Shared Computing Cluster (TSCC) is UC San Diego’s primary research HPC system. It is foremost a "condo cluster" (researcher-purchased computing hardware) that provides access, colocation, and management of a significant shared computing resource, as well as providing a "hotel" service for those with temporary or bursty HPC needs. Like many research scientists, the TSCC community has been increasing its usage of interactive services such as Jupyter Notebooks.
 
