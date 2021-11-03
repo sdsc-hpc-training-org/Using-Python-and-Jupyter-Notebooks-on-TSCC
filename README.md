@@ -12,7 +12,7 @@ The Triton Shared Computing Cluster (TSCC) is UC San Diego’s primary research 
 This workshop will focus on providing guidelines for setting up customized Python environments, how to install and manage packages using Miniconda/pip, and how to run secure Jupyter notebooks on TSCC.
 
 ## Agenda (subject to minor changes)
-| **TIME** |  **TITLE** | **PRESEMTER** |
+| **TIME** |  **TITLE** | **PRESENTER** |
 | ----- | -----  | ----- |
 | 1:00 PM - 1:15 PM  |  1.0  Welcome and Introductions | Subhashini Sivagnanam, Senior Computational and Data Science Specialist |
  | *Part I:*  |  *Interactive Computing on TSCC & Customized Python Environments* |  |
